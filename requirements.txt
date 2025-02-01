@@ -1,0 +1,4 @@
+pdfplumber
+chromadb
+sentence-transformers
+gradio

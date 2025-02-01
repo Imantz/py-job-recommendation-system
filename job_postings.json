@@ -1,0 +1,1002 @@
+[
+  {
+    "job_id": 1,
+    "job_title": "MERN Stack Developer",
+    "company": "Tech Innovators inc",
+    "location": "San Francisco, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $120,000",
+    "job_description": "Looking for a MERN Stack Developer to build dynamic web applications.",
+    "job_responsibilities": [
+      "Develop front-end using React.js.",
+      "Design and manage database with MongoDB.",
+      "Implement server-side logic with Node.js and Express.js."
+    ],
+    "preferred_qualifications": [
+      "Experience with RESTful APIs.",
+      "Knowledge of cloud services (AWS/GCP).",
+      "Strong understanding of CI/CD pipelines."
+    ],
+    "application_deadline": "2024-08-01"
+  },
+  {
+    "job_id": 2,
+    "job_title": "Full Stack Developer 1",
+    "company": "Innovative Solutions",
+    "location": "New York, NY (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$100,000 - $130,000",
+    "job_description": "We need a Full Stack Developer experienced in both front-end and back-end development.",
+    "job_responsibilities": [
+      "Develop and maintain web applications.",
+      "Collaborate with designers and other developers.",
+      "Ensure responsive design and cross-browser compatibility."
+    ],
+    "preferred_qualifications": [
+      "Experience with JavaScript frameworks.",
+      "Knowledge of database management (SQL/NoSQL).",
+      "Familiarity with version control systems (Git)."
+    ],
+    "application_deadline": "2024-07-25"
+  },
+  {
+    "job_id": 3,
+    "job_title": "Python Developer Scientist",
+    "company": "Data Wizards",
+    "location": "Boston, MA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$85,000 - $110,000",
+    "job_description": "We are looking for a proficient Python Developer to create and sustain our software solutions.",
+    "job_responsibilities": [
+      "Write reusable, testable, and efficient code.",
+      "Design and implement low-latency, high-availability applications.",
+      "Integrate user-facing elements with server-side logic."
+    ],
+    "preferred_qualifications": [
+      "Familiarity with front-end technologies (like JavaScript and HTML5).",
+      "Understanding of accessibility and security compliance.",
+      "Knowledge of user authentication and authorization."
+    ],
+    "application_deadline": "2024-07-20"
+  },
+  {
+    "job_id": 4,
+    "job_title": "Data Scientist-1",
+    "company": "Data Insights",
+    "location": "Chicago, IL (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$95,000 - $125,000",
+    "job_description": "We are looking for a Data Scientist to analyze large datasets and derive actionable insights.",
+    "job_responsibilities": [
+      "Develop and implement data models.",
+      "Analyze data trends and patterns.",
+      "Collaborate with cross-functional teams."
+    ],
+    "preferred_qualifications": [
+      "Experience with machine learning frameworks.",
+      "Proficiency in Python or R.",
+      "Strong statistical analysis skills."
+    ],
+    "application_deadline": "2024-07-30"
+  },
+  {
+    "job_id": 5,
+    "job_title": "Project Manager",
+    "company": "Business Solutions",
+    "location": "Seattle, WA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$80,000 - $100,000",
+    "job_description": "Seeking an experienced Project Manager to oversee various projects and ensure timely delivery.",
+    "job_responsibilities": [
+      "Develop project plans and timelines.",
+      "Coordinate with stakeholders.",
+      "Monitor project progress and adjust as necessary."
+    ],
+    "preferred_qualifications": [
+      "Experience with project management software (e.g., MS Project).",
+      "Strong leadership and communication skills.",
+      "PMP certification is a plus."
+    ],
+    "application_deadline": "2024-08-10"
+  },
+  {
+    "job_id": 6,
+    "job_title": "UX/UI Designer",
+    "company": "Creative Minds",
+    "location": "Austin, TX (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$75,000 - $95,000",
+    "job_description": "We need a UX/UI Designer to create intuitive and visually appealing user interfaces.",
+    "job_responsibilities": [
+      "Design user interfaces for web and mobile applications.",
+      "Conduct user research and usability testing.",
+      "Collaborate with product and development teams."
+    ],
+    "preferred_qualifications": [
+      "Proficiency in design tools (Sketch, Adobe XD).",
+      "Strong portfolio showcasing UX/UI design work.",
+      "Experience with wireframing and prototyping."
+    ],
+    "application_deadline": "2024-08-05"
+  },
+  {
+    "job_id": 7,
+    "job_title": "Systems Analyst",
+    "company": "Tech Innovators",
+    "location": "Phoenix, AZ (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$70,000 - $90,000",
+    "job_description": "We need a Systems Analyst to implement, maintain, and support IT systems.",
+    "job_responsibilities": [
+      "Analyze and design IT solutions.",
+      "Document system requirements and specifications.",
+      "Collaborate with developers and end-users."
+    ],
+    "preferred_qualifications": [
+      "Experience with SQL and software development.",
+      "Strong analytical and problem-solving skills.",
+      "Knowledge of business analysis techniques."
+    ],
+    "application_deadline": "2024-08-15"
+  },
+  {
+    "job_id": 8,
+    "job_title": "Digital Marketing Specialist",
+    "company": "Marketing Pros",
+    "location": "Los Angeles, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$65,000 - $85,000",
+    "job_description": "Looking for a Digital Marketing Specialist to develop and execute marketing campaigns.",
+    "job_responsibilities": [
+      "Create and manage digital marketing campaigns.",
+      "Analyze and report on campaign performance.",
+      "Collaborate with the marketing team."
+    ],
+    "preferred_qualifications": [
+      "Experience with SEO and SEM.",
+      "Proficiency in Google Analytics and AdWords.",
+      "Strong understanding of social media marketing."
+    ],
+    "application_deadline": "2024-08-20"
+  },
+  {
+    "job_id": 9,
+    "job_title": "Network Administrator",
+    "company": "IT Solutions",
+    "location": "Miami, FL (On-site)",
+    "job_type": "Full-Time",
+    "salary": "$60,000 - $80,000",
+    "job_description": "Seeking a Network Administrator to maintain and optimize our network infrastructure.",
+    "job_responsibilities": [
+      "Install and configure network hardware and software.",
+      "Monitor network performance and troubleshoot issues.",
+      "Ensure network security and compliance."
+    ],
+    "preferred_qualifications": [
+      "Experience with networking protocols and services.",
+      "Knowledge of firewalls and security systems.",
+      "Certification (CCNA, CCNP) is a plus."
+    ],
+    "application_deadline": "2024-08-25"
+  },
+  {
+    "job_id": 10,
+    "job_title": "Financial Analyst",
+    "company": "Finance Experts",
+    "location": "Houston, TX (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$70,000 - $95,000",
+    "job_description": "Looking for a Financial Analyst to provide financial planning and analysis.",
+    "job_responsibilities": [
+      "Analyze financial data and create financial models.",
+      "Prepare reports and forecasts.",
+      "Assist in budgeting and financial planning."
+    ],
+    "preferred_qualifications": [
+      "Experience with financial analysis and modeling.",
+      "Proficiency in Excel and financial software.",
+      "Strong analytical and problem-solving skills."
+    ],
+    "application_deadline": "2024-09-01"
+  },
+  {
+    "job_id": 11,
+    "job_title": "Software Engineer",
+    "company": "Tech Solutions",
+    "location": "New York, NY (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $120,000",
+    "job_description": "We are looking for a Software Engineer to develop and maintain software applications.",
+    "job_responsibilities": [
+      "Write clean and efficient code.",
+      "Collaborate with cross-functional teams.",
+      "Troubleshoot and debug applications."
+    ],
+    "preferred_qualifications": [
+      "Experience with software development lifecycle.",
+      "Proficiency in programming languages (e.g., Java, C++).",
+      "Strong problem-solving skills."
+    ],
+    "application_deadline": "2024-09-05"
+  },
+  {
+    "job_id": 12,
+    "job_title": "Human Resources Manager",
+    "company": "HR Pros",
+    "location": "Boston, MA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$80,000 - $100,000",
+    "job_description": "Seeking an HR Manager to oversee HR policies and procedures.",
+    "job_responsibilities": [
+      "Develop and implement HR strategies.",
+      "Manage recruitment and selection processes.",
+      "Oversee employee relations and performance management."
+    ],
+    "preferred_qualifications": [
+      "Experience in HR management.",
+      "Strong knowledge of labor laws and regulations.",
+      "Excellent communication and interpersonal skills."
+    ],
+    "application_deadline": "2024-09-10"
+  },
+  {
+    "job_id": 13,
+    "job_title": "Graphic Designer",
+    "company": "Creative Studio",
+    "location": "San Diego, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$65,000 - $85,000",
+    "job_description": "We need a Graphic Designer to create visually appealing graphics and layouts.",
+    "job_responsibilities": [
+      "Design graphics for digital and print media.",
+      "Collaborate with marketing and design teams.",
+      "Ensure brand consistency in all designs."
+    ],
+    "preferred_qualifications": [
+      "Proficiency in Adobe Creative Suite.",
+      "Strong portfolio showcasing design work.",
+      "Experience with typography and color theory."
+    ],
+    "application_deadline": "2024-09-15"
+  },
+  {
+    "job_id": 14,
+    "job_title": "Cybersecurity Analyst",
+    "company": "SecureTech",
+    "location": "Washington, D.C. (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$85,000 - $110,000",
+    "job_description": "Looking for a Cybersecurity Analyst to monitor and protect our systems.",
+    "job_responsibilities": [
+      "Monitor network for security breaches.",
+      "Investigate security incidents.",
+      "Implement security measures and protocols."
+    ],
+    "preferred_qualifications": [
+      "Experience with SIEM tools.",
+      "Knowledge of cybersecurity frameworks.",
+      "Strong analytical and problem-solving skills."
+    ],
+    "application_deadline": "2024-09-20"
+  },
+  {
+    "job_id": 15,
+    "job_title": "Cloud Solutions Architect",
+    "company": "Cloud Experts",
+    "location": "Seattle, WA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$100,000 - $130,000",
+    "job_description": "Seeking a Cloud Solutions Architect to design and implement cloud solutions.",
+    "job_responsibilities": [
+      "Develop cloud strategies and roadmaps.",
+      "Design cloud architectures.",
+      "Ensure cloud solutions are secure and scalable."
+    ],
+    "preferred_qualifications": [
+      "Experience with AWS, Azure, or GCP.",
+      "Knowledge of cloud security and compliance.",
+      "Strong understanding of cloud computing concepts."
+    ],
+    "application_deadline": "2024-09-25"
+  },
+  {
+    "job_id": 16,
+    "job_title": "Product Manager",
+    "company": "Innovative Products",
+    "location": "Boston, MA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $120,000",
+    "job_description": "Looking for a Product Manager to oversee the development and delivery of our products.",
+    "job_responsibilities": [
+      "Define product vision and strategy.",
+      "Manage product lifecycle.",
+      "Collaborate with cross-functional teams."
+    ],
+    "preferred_qualifications": [
+      "Experience in product management.",
+      "Strong understanding of Agile methodologies.",
+      "Excellent communication and leadership skills."
+    ],
+    "application_deadline": "2024-09-30"
+  },
+  {
+    "job_id": 17,
+    "job_title": "Content Writer",
+    "company": "Content Creators",
+    "location": "Los Angeles, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$55,000 - $75,000",
+    "job_description": "We need a Content Writer to create engaging and informative content.",
+    "job_responsibilities": [
+      "Write articles, blog posts, and social media content.",
+      "Research and develop content ideas.",
+      "Collaborate with marketing and design teams."
+    ],
+    "preferred_qualifications": [
+      "Strong writing and editing skills.",
+      "Experience with SEO best practices.",
+      "Proficiency in content management systems."
+    ],
+    "application_deadline": "2024-10-05"
+  },
+  {
+    "job_id": 18,
+    "job_title": "Sales Executive",
+    "company": "Sales Pros",
+    "location": "Houston, TX (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$70,000 - $90,000",
+    "job_description": "Looking for a Sales Executive to drive sales and revenue growth.",
+    "job_responsibilities": [
+      "Identify and develop new business opportunities.",
+      "Manage and grow client relationships.",
+      "Achieve sales targets and goals."
+    ],
+    "preferred_qualifications": [
+      "Experience in sales and business development.",
+      "Strong negotiation and communication skills.",
+      "Proficiency in CRM software."
+    ],
+    "application_deadline": "2024-10-10"
+  },
+  {
+    "job_id": 19,
+    "job_title": "Business Intelligence Analyst",
+    "company": "BizTech",
+    "location": "Houston, TX (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$80,000 - $105,000",
+    "job_description": "We need a Business Intelligence Analyst to assess business processes and provide data-driven insights.",
+    "job_responsibilities": [
+      "Develop and maintain BI solutions.",
+      "Analyze data and generate reports.",
+      "Collaborate with business stakeholders."
+    ],
+    "preferred_qualifications": [
+      "Experience with BI tools (e.g., Tableau, Power BI).",
+      "Strong analytical and problem-solving skills.",
+      "Proficiency in SQL and data analysis."
+    ],
+    "application_deadline": "2024-10-15"
+  },
+  {
+    "job_id": 20,
+    "job_title": "Customer Support Specialist",
+    "company": "HelpDesk Heroes",
+    "location": "Miami, FL (On-site)",
+    "job_type": "Full-Time",
+    "salary": "$50,000 - $65,000",
+    "job_description": "Seeking a Customer Support Specialist to provide technical assistance to computer users.",
+    "job_responsibilities": [
+      "Respond to customer inquiries and issues.",
+      "Troubleshoot and resolve technical problems.",
+      "Document support interactions and solutions."
+    ],
+    "preferred_qualifications": [
+      "Experience in customer support or technical support.",
+      "Strong communication and problem-solving skills.",
+      "Knowledge of computer hardware and software."
+    ],
+    "application_deadline": "2024-10-20"
+  },
+  {
+    "job_id": 21,
+    "job_title": "Operations Manager",
+    "company": "Business Solutions",
+    "location": "Seattle, WA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$85,000 - $110,000",
+    "job_description": "We need an Operations Manager to oversee daily operations and ensure efficiency.",
+    "job_responsibilities": [
+      "Manage operational processes and workflows.",
+      "Develop and implement operational strategies.",
+      "Monitor and improve performance metrics."
+    ],
+    "preferred_qualifications": [
+      "Experience in operations management.",
+      "Strong organizational and leadership skills.",
+      "Knowledge of process improvement methodologies."
+    ],
+    "application_deadline": "2024-10-25"
+  },
+  {
+    "job_id": 22,
+    "job_title": "SEO Specialist",
+    "company": "Marketing Pros",
+    "location": "Los Angeles, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$60,000 - $80,000",
+    "job_description": "Looking for an SEO Specialist to improve our website's search engine ranking.",
+    "job_responsibilities": [
+      "Conduct keyword research and analysis.",
+      "Optimize website content and structure.",
+      "Monitor and report on SEO performance."
+    ],
+    "preferred_qualifications": [
+      "Experience with SEO tools (e.g., SEMrush, Ahrefs).",
+      "Strong understanding of search engine algorithms.",
+      "Proficiency in HTML and web analytics."
+    ],
+    "application_deadline": "2024-10-30"
+  },
+  {
+    "job_id": 23,
+    "job_title": "Mobile App Developer",
+    "company": "App Masters",
+    "location": "New York, NY (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $115,000",
+    "job_description": "Seeking a Mobile App Developer to create high-quality mobile applications.",
+    "job_responsibilities": [
+      "Develop mobile apps for Android and iOS.",
+      "Collaborate with designers and developers.",
+      "Ensure app performance and stability."
+    ],
+    "preferred_qualifications": [
+      "Proficiency in Swift and Kotlin.",
+      "Experience with React Native.",
+      "Strong understanding of mobile development frameworks."
+    ],
+    "application_deadline": "2024-11-05"
+  },
+  {
+    "job_id": 24,
+    "job_title": "MERN Stack Developer",
+    "company": "Tech Innovators",
+    "location": "San Francisco, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $120,000",
+    "job_description": "Looking for a MERN Stack Developer to build dynamic web applications.",
+    "job_responsibilities": [
+      "Develop front-end using React.js.",
+      "Design and manage database with MongoDB.",
+      "Implement server-side logic with Node.js and Express.js."
+    ],
+    "preferred_qualifications": [
+      "Experience with RESTful APIs.",
+      "Knowledge of cloud services (AWS/GCP).",
+      "Strong understanding of CI/CD pipelines."
+    ],
+    "application_deadline": "2024-11-10"
+  },
+  {
+    "job_id": 25,
+    "job_title": "Full Stack Developer 2",
+    "company": "Innovative Solutions",
+    "location": "New York, NY (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$100,000 - $130,000",
+    "job_description": "We need a Full Stack Developer experienced in both front-end and back-end development.",
+    "job_responsibilities": [
+      "Develop and maintain web applications.",
+      "Collaborate with designers and other developers.",
+      "Ensure responsive design and cross-browser compatibility."
+    ],
+    "preferred_qualifications": [
+      "Experience with JavaScript frameworks.",
+      "Knowledge of database management (SQL/NoSQL).",
+      "Familiarity with version control systems (Git)."
+    ],
+    "application_deadline": "2024-11-15"
+  },
+  {
+    "job_id": 26,
+    "job_title": "Python Developer",
+    "company": "Data Wizards",
+    "location": "Boston, MA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$85,000 - $110,000",
+    "job_description": "Seeking a skilled Python Developer to develop and maintain our software solutions.",
+    "job_responsibilities": [
+      "Write reusable, testable, and efficient code.",
+      "Design and implement low-latency, high-availability applications.",
+      "Integrate user-facing elements with server-side logic."
+    ],
+    "preferred_qualifications": [
+      "Familiarity with front-end technologies (like JavaScript and HTML5).",
+      "Understanding of accessibility and security compliance.",
+      "Knowledge of user authentication and authorization."
+    ],
+    "application_deadline": "2024-11-20"
+  },
+  {
+    "job_id": 27,
+    "job_title": "Data Scientist-2",
+    "company": "Data Insights",
+    "location": "Chicago, IL (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$95,000 - $125,000",
+    "job_description": "We are looking for a Data Scientist to analyze large datasets and derive actionable insights.",
+    "job_responsibilities": [
+      "Develop and implement data models.",
+      "Analyze data trends and patterns.",
+      "Collaborate with cross-functional teams."
+    ],
+    "preferred_qualifications": [
+      "Experience with machine learning frameworks.",
+      "Proficiency in Python or R.",
+      "Strong statistical analysis skills."
+    ],
+    "application_deadline": "2024-11-25"
+  },
+  {
+    "job_id": 28,
+    "job_title": "Project Manager",
+    "company": "Business Solutions",
+    "location": "Seattle, WA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$80,000 - $100,000",
+    "job_description": "Seeking an experienced Project Manager to oversee various projects and ensure timely delivery.",
+    "job_responsibilities": [
+      "Develop project plans and timelines.",
+      "Coordinate with stakeholders.",
+      "Monitor project progress and adjust as necessary."
+    ],
+    "preferred_qualifications": [
+      "Experience with project management software (e.g., MS Project).",
+      "Strong leadership and communication skills.",
+      "PMP certification is a plus."
+    ],
+    "application_deadline": "2024-11-30"
+  },
+  {
+    "job_id": 29,
+    "job_title": "UX/UI Designer",
+    "company": "Creative Minds",
+    "location": "Austin, TX (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$75,000 - $95,000",
+    "job_description": "We need a UX/UI Designer to create intuitive and visually appealing user interfaces.",
+    "job_responsibilities": [
+      "Design user interfaces for web and mobile applications.",
+      "Conduct user research and usability testing.",
+      "Collaborate with product and development teams."
+    ],
+    "preferred_qualifications": [
+      "Proficiency in design tools (Sketch, Adobe XD).",
+      "Strong portfolio showcasing UX/UI design work.",
+      "Experience with wireframing and prototyping."
+    ],
+    "application_deadline": "2024-12-05"
+  },
+  {
+    "job_id": 30,
+    "job_title": "Systems Analyst",
+    "company": "Tech Innovators",
+    "location": "Phoenix, AZ (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$70,000 - $90,000",
+    "job_description": "We need a Systems Analyst to implement, maintain, and support IT systems.",
+    "job_responsibilities": [
+      "Analyze and design IT solutions.",
+      "Document system requirements and specifications.",
+      "Collaborate with developers and end-users."
+    ],
+    "preferred_qualifications": [
+      "Experience with SQL and software development.",
+      "Strong analytical and problem-solving skills.",
+      "Knowledge of business analysis techniques."
+    ],
+    "application_deadline": "2024-12-10"
+  },
+  {
+    "job_id": 31,
+    "job_title": "Digital Marketing Specialist",
+    "company": "Marketing Pros",
+    "location": "Los Angeles, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$65,000 - $85,000",
+    "job_description": "Looking for a Digital Marketing Specialist to develop and execute marketing campaigns.",
+    "job_responsibilities": [
+      "Create and manage digital marketing campaigns.",
+      "Analyze and report on campaign performance.",
+      "Collaborate with the marketing team."
+    ],
+    "preferred_qualifications": [
+      "Experience with SEO and SEM.",
+      "Proficiency in Google Analytics and AdWords.",
+      "Strong understanding of social media marketing."
+    ],
+    "application_deadline": "2024-12-15"
+  },
+  {
+    "job_id": 32,
+    "job_title": "Network Administrator",
+    "company": "IT Solutions",
+    "location": "Miami, FL (On-site)",
+    "job_type": "Full-Time",
+    "salary": "$60,000 - $80,000",
+    "job_description": "Seeking a Network Administrator to maintain and optimize our network infrastructure.",
+    "job_responsibilities": [
+      "Install and configure network hardware and software.",
+      "Monitor network performance and troubleshoot issues.",
+      "Ensure network security and compliance."
+    ],
+    "preferred_qualifications": [
+      "Experience with networking protocols and services.",
+      "Knowledge of firewalls and security systems.",
+      "Certification (CCNA, CCNP) is a plus."
+    ],
+    "application_deadline": "2024-12-20"
+  },
+  {
+    "job_id": 33,
+    "job_title": "Financial Analyst",
+    "company": "Finance Experts",
+    "location": "Houston, TX (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$70,000 - $95,000",
+    "job_description": "Looking for a Financial Analyst to provide financial planning and analysis.",
+    "job_responsibilities": [
+      "Analyze financial data and create financial models.",
+      "Prepare reports and forecasts.",
+      "Assist in budgeting and financial planning."
+    ],
+    "preferred_qualifications": [
+      "Experience with financial analysis and modeling.",
+      "Proficiency in Excel and financial software.",
+      "Strong analytical and problem-solving skills."
+    ],
+    "application_deadline": "2024-12-25"
+  },
+  {
+    "job_id": 34,
+    "job_title": "Software Engineer",
+    "company": "Tech Solutions",
+    "location": "New York, NY (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $120,000",
+    "job_description": "We are looking for a Software Engineer to develop and maintain software applications.",
+    "job_responsibilities": [
+      "Write clean and efficient code.",
+      "Collaborate with cross-functional teams.",
+      "Troubleshoot and debug applications."
+    ],
+    "preferred_qualifications": [
+      "Experience with software development lifecycle.",
+      "Proficiency in programming languages (e.g., Java, C++).",
+      "Strong problem-solving skills."
+    ],
+    "application_deadline": "2024-12-30"
+  },
+  {
+    "job_id": 35,
+    "job_title": "Human Resources Manager",
+    "company": "HR Pros",
+    "location": "Boston, MA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$80,000 - $100,000",
+    "job_description": "Seeking an HR Manager to oversee HR policies and procedures.",
+    "job_responsibilities": [
+      "Develop and implement HR strategies.",
+      "Manage recruitment and selection processes.",
+      "Oversee employee relations and performance management."
+    ],
+    "preferred_qualifications": [
+      "Experience in HR management.",
+      "Strong knowledge of labor laws and regulations.",
+      "Excellent communication and interpersonal skills."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 36,
+    "job_title": "Graphic Designer",
+    "company": "Creative Studio",
+    "location": "San Diego, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$65,000 - $85,000",
+    "job_description": "We need a Graphic Designer to create visually appealing graphics and layouts.",
+    "job_responsibilities": [
+      "Design graphics for digital and print media.",
+      "Collaborate with marketing and design teams.",
+      "Ensure brand consistency in all designs."
+    ],
+    "preferred_qualifications": [
+      "Proficiency in Adobe Creative Suite.",
+      "Strong portfolio showcasing design work.",
+      "Experience with typography and color theory."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 37,
+    "job_title": "Cybersecurity Analyst",
+    "company": "SecureTech",
+    "location": "Washington, D.C. (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$85,000 - $110,000",
+    "job_description": "Looking for a Cybersecurity Analyst to monitor and protect our systems.",
+    "job_responsibilities": [
+      "Monitor network for security breaches.",
+      "Investigate security incidents.",
+      "Implement security measures and protocols."
+    ],
+    "preferred_qualifications": [
+      "Experience with SIEM tools.",
+      "Knowledge of cybersecurity frameworks.",
+      "Strong analytical and problem-solving skills."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 38,
+    "job_title": "Cloud Solutions Architect",
+    "company": "Cloud Experts",
+    "location": "Seattle, WA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$100,000 - $130,000",
+    "job_description": "Seeking a Cloud Solutions Architect to design and implement cloud solutions.",
+    "job_responsibilities": [
+      "Develop cloud strategies and roadmaps.",
+      "Design cloud architectures.",
+      "Ensure cloud solutions are secure and scalable."
+    ],
+    "preferred_qualifications": [
+      "Experience with AWS, Azure, or GCP.",
+      "Knowledge of cloud security and compliance.",
+      "Strong understanding of cloud computing concepts."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 39,
+    "job_title": "Product Manager",
+    "company": "Innovative Products",
+    "location": "Boston, MA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $120,000",
+    "job_description": "Looking for a Product Manager to oversee the development and delivery of our products.",
+    "job_responsibilities": [
+      "Define product vision and strategy.",
+      "Manage product lifecycle.",
+      "Collaborate with cross-functional teams."
+    ],
+    "preferred_qualifications": [
+      "Experience in product management.",
+      "Strong understanding of Agile methodologies.",
+      "Excellent communication and leadership skills."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 40,
+    "job_title": "Content Writer",
+    "company": "Content Creators",
+    "location": "Los Angeles, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$55,000 - $75,000",
+    "job_description": "We need a Content Writer to create engaging and informative content.",
+    "job_responsibilities": [
+      "Write articles, blog posts, and social media content.",
+      "Research and develop content ideas.",
+      "Collaborate with marketing and design teams."
+    ],
+    "preferred_qualifications": [
+      "Strong writing and editing skills.",
+      "Experience with SEO best practices.",
+      "Proficiency in content management systems."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 41,
+    "job_title": "Sales Executive",
+    "company": "Sales Pros",
+    "location": "Houston, TX (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$70,000 - $90,000",
+    "job_description": "Looking for a Sales Executive to drive sales and revenue growth.",
+    "job_responsibilities": [
+      "Identify and develop new business opportunities.",
+      "Manage and grow client relationships.",
+      "Achieve sales targets and goals."
+    ],
+    "preferred_qualifications": [
+      "Experience in sales and business development.",
+      "Strong negotiation and communication skills.",
+      "Proficiency in CRM software."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 42,
+    "job_title": "Business Intelligence Analyst",
+    "company": "BizTech",
+    "location": "Houston, TX (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$80,000 - $105,000",
+    "job_description": "We need a Business Intelligence Analyst to assess business processes and provide data-driven insights.",
+    "job_responsibilities": [
+      "Develop and maintain BI solutions.",
+      "Analyze data and generate reports.",
+      "Collaborate with business stakeholders."
+    ],
+    "preferred_qualifications": [
+      "Experience with BI tools (e.g., Tableau, Power BI).",
+      "Strong analytical and problem-solving skills.",
+      "Proficiency in SQL and data analysis."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 43,
+    "job_title": "Customer Support Specialist",
+    "company": "HelpDesk Heroes",
+    "location": "Miami, FL (On-site)",
+    "job_type": "Full-Time",
+    "salary": "$50,000 - $65,000",
+    "job_description": "Seeking a Customer Support Specialist to provide technical assistance to computer users.",
+    "job_responsibilities": [
+      "Respond to customer inquiries and issues.",
+      "Troubleshoot and resolve technical problems.",
+      "Document support interactions and solutions."
+    ],
+    "preferred_qualifications": [
+      "Experience in customer support or technical support.",
+      "Strong communication and problem-solving skills.",
+      "Knowledge of computer hardware and software."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 44,
+    "job_title": "Operations Manager",
+    "company": "Business Solutions",
+    "location": "Seattle, WA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$85,000 - $110,000",
+    "job_description": "We need an Operations Manager to oversee daily operations and ensure efficiency.",
+    "job_responsibilities": [
+      "Manage operational processes and workflows.",
+      "Develop and implement operational strategies.",
+      "Monitor and improve performance metrics."
+    ],
+    "preferred_qualifications": [
+      "Experience in operations management.",
+      "Strong organizational and leadership skills.",
+      "Knowledge of process improvement methodologies."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 45,
+    "job_title": "SEO Specialist",
+    "company": "Marketing Pros",
+    "location": "Los Angeles, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$60,000 - $80,000",
+    "job_description": "Looking for an SEO Specialist to improve our website's search engine ranking.",
+    "job_responsibilities": [
+      "Conduct keyword research and analysis.",
+      "Optimize website content and structure.",
+      "Monitor and report on SEO performance."
+    ],
+    "preferred_qualifications": [
+      "Experience with SEO tools (e.g., SEMrush, Ahrefs).",
+      "Strong understanding of search engine algorithms.",
+      "Proficiency in HTML and web analytics."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 46,
+    "job_title": "Mobile App Developer",
+    "company": "App Masters",
+    "location": "New York, NY (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $115,000",
+    "job_description": "Seeking a Mobile App Developer to create high-quality mobile applications.",
+    "job_responsibilities": [
+      "Develop mobile apps for Android and iOS.",
+      "Collaborate with designers and developers.",
+      "Ensure app performance and stability."
+    ],
+    "preferred_qualifications": [
+      "Proficiency in Swift and Kotlin.",
+      "Experience with React Native.",
+      "Strong understanding of mobile development frameworks."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 47,
+    "job_title": "MERN Stack Developer",
+    "company": "Tech Innovators",
+    "location": "San Francisco, CA (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$90,000 - $120,000",
+    "job_description": "Looking for a MERN Stack Developer to build dynamic web applications.",
+    "job_responsibilities": [
+      "Develop front-end using React.js.",
+      "Design and manage database with MongoDB.",
+      "Implement server-side logic with Node.js and Express.js."
+    ],
+    "preferred_qualifications": [
+      "Experience with RESTful APIs.",
+      "Knowledge of cloud services (AWS/GCP).",
+      "Strong understanding of CI/CD pipelines."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 48,
+    "job_title": "Full Stack Developer 3",
+    "company": "Innovative Solutions",
+    "location": "Boston",
+    "job_type": "Full-Time",
+    "salary": "$100,000 - $130,000",
+    "job_description": "We need a Full Stack Developer experienced in both front-end and back-end development.",
+    "job_responsibilities": [
+      "Develop and maintain web applications.",
+      "Collaborate with designers and other developers.",
+      "Ensure responsive design and cross-browser compatibility."
+    ],
+    "preferred_qualifications": [
+      "Experience with JavaScript frameworks.",
+      "Knowledge of database management (SQL/NoSQL).",
+      "Familiarity with version control systems (Git)."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 49,
+    "job_title": "Python Developer",
+    "company": "Data Wizards",
+    "location": "Boston, MA (Remote)",
+    "job_type": "Part-Time",
+    "salary": "$85,000 - $110,000",
+    "job_description": "Seeking a skilled Python Developer to develop and maintain our software solutions.",
+    "job_responsibilities": [
+      "Write reusable, testable, and efficient code.",
+      "Design and implement low-latency, high-availability applications.",
+      "Integrate user-facing elements with server-side logic."
+    ],
+    "preferred_qualifications": [
+      "Familiarity with front-end technologies (like JavaScript and HTML5).",
+      "Understanding of accessibility and security compliance.",
+      "Knowledge of user authentication and authorization."
+    ],
+    "application_deadline": "2024-12-31"
+  },
+  {
+    "job_id": 50,
+    "job_title": "Data Scientist-3",
+    "company": "Data Insights",
+    "location": "Chicago, IL (Remote)",
+    "job_type": "Full-Time",
+    "salary": "$95,000 - $125,000",
+    "job_description": "We are looking for a Data Scientist to analyze large datasets and derive actionable insights.",
+    "job_responsibilities": [
+      "Develop and implement data models.",
+      "Analyze data trends and patterns.",
+      "Collaborate with cross-functional teams."
+    ],
+    "preferred_qualifications": [
+      "Experience with machine learning frameworks.",
+      "Proficiency in Python or R.",
+      "Strong statistical analysis skills."
+    ],
+    "application_deadline": "2024-12-31"
+  }
+]
