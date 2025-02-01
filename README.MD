@@ -1,11 +1,10 @@
-
 #### 
 ```
 git clone https://github.com/Imantz/py-job-recommendation-system.git
 ```
 
 ```
-cd py-job-recommendation-system.git
+cd py-job-recommendation-system
 ```
 
 #### Installation
