@@ -64,7 +64,7 @@ def store_embeddings_in_chroma_db():
 store_embeddings_in_chroma_db()
 
 
-def find_matching_jobs(resume_pdf):
+def find_matching_jobs(resume_pdf, threshold=1):
     """Process resume, generate embedding, and find matching jobs in ChromaDB."""
     # Extract text from uploaded resume
     resume_text = extract_text_from_pdf(resume_pdf)
@@ -87,9 +87,17 @@ def find_matching_jobs(resume_pdf):
             job_id = results["ids"][0][i]
             job_title = results["metadatas"][0][i]["job_title"]
             job_description = results["documents"][0][i]
-            output += f"\n**Job ID: {job_id}**\n**Title: {job_title}**\n{job_description}\n\n"
-    else:
-        output = "No matching job found."
+            similarity_score = results["distances"][0][i]  # Lower is better
+
+            if similarity_score < threshold:  # Only include jobs within threshold
+                output += (
+                    f"\n**Job ID: {job_id}**\n"
+                    f"**Title: {job_title}**\n"
+                    f"**Similarity Score: {similarity_score:.4f}**\n"
+                    f"{job_description}\n\n"
+                )
+
+    return output if output else "No matching job found with sufficient similarity."
 
     return output
 
